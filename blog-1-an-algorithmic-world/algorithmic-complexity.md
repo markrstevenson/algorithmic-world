@@ -3,4 +3,4 @@
 | Algorithm | Worst Case |
 |-----------|------------|
 |Linear Search | O(n)    |
-|Bubble Sort | O(n^2)    |
+|Bubble Sort | O($$n^2$$)|
