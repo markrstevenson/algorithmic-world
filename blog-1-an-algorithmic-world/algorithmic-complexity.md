@@ -4,3 +4,5 @@
 |-----------|------------|
 |Linear Search | O(n)    |
 |Bubble Sort | $$ O(n^2) $$|
+
+$$ O(n^2) $$
