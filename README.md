@@ -1,5 +1,5 @@
 # Algorithmic World
-This repo contains the code for [Algorithmic World](https://algorithmicworld.substack.com/) blogposts.
+This repo contains the code for [Algorithmic World articles](https://algorithmicworld.substack.com/). Articles are released every other Thursday.
 
 ## Structure
 Each blogpost has it's own folder, using the convention blog-n-name. Within each blog folder, you'll find something like:
